@@ -1,4 +1,4 @@
-# PIL_PROJECTS
+# IMAGE_EDITOR
 Computer vision using python image library(PIL)
 
 usage: ./image_editor [-h] [-s S] [-d D] [-g] [-c C] [-t] [-r R]
